@@ -6,6 +6,8 @@ Ozan YALÇIN
 
 All of our work was carried out in the MatlabR2022b version. Image Processing Toolbox and Deep Network Designer must be installed in order to compile the codes. Each of the codes must be opened and run in the Matlab environment.
 
+HiXRay dataset was used in the studies. Due to hardware inadequacies, a subset of the dataset was created. To create this subset; The lib_shrink.m file is used.
+
 Script to translate the annotations in the dataset into English;
 cat_ch_en.m
 
